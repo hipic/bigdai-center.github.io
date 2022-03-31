@@ -1,0 +1,16 @@
+.section-business .sidebars #block-og-menu-og-single-menu-block,
+.section-engagement .sidebars,
+.og-context-node-506 .sidebars,
+.section-hhs .sidebars,
+.section-library .sidebars,
+.section-specialcollections .sidebars #block-og-menu-og-single-menu-block {
+  display: none;
+}
+.sidebar-first.section-engagement #content,
+.sidebar-first.og-context-node-506 #content,
+.sidebar-first.section-hhs #content,
+.sidebar-first.section-library #content {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}

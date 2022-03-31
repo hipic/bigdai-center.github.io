@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ecatalog.calstatela.edu	TRUE	/	FALSE	1999999999	AWSALB	sSlUCIsIWXPYe06ggKTVwPYJ4rPQ8ucCcxyqViWZ6fOiCC4pTsNKbLfRmodUtiXwBYY0NAUGAu0QUn6Z0Aa1Uxq+05f7Q2dqCMIkwqoh+mNJauQbTbEsyD0hBeiA
+ecatalog.calstatela.edu	TRUE	/	FALSE	1999999999	AWSALBCORS	sSlUCIsIWXPYe06ggKTVwPYJ4rPQ8ucCcxyqViWZ6fOiCC4pTsNKbLfRmodUtiXwBYY0NAUGAu0QUn6Z0Aa1Uxq+05f7Q2dqCMIkwqoh+mNJauQbTbEsyD0hBeiA
+ecatalog.calstatela.edu	TRUE	/	FALSE	1999999999	SameSite	None
+.www.calstatela.edu	TRUE	/	FALSE	1999999999	__cfduid	d57e2d68632a0c0ec080aa1ba19b1cf4b1614992353
+www.calstatela.edu	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.calstatela.edu	TRUE	/	FALSE	1999999999	SimpleSAMLSessionID	c51699639fc22f75b4f6179eeccfbc9c
+www.calstatela.edu	TRUE	/	FALSE	1999999999	NO_CACHE	1
+
